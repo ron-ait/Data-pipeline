@@ -1,0 +1,4 @@
+faker
+kafka-python
+geojson 
+
