@@ -51,3 +51,7 @@ __Kafka__ is a distributed streaming platform that can handle real-time data fee
 🔶 **Fault-tolerance:** Kafka ensures data durability and reliability by replicating data across multiple nodes.
 
 🔶 **Low latency:** Kafka allows real-time processing of data with minimal latency.
+
+
+
+If you encounter any issues or have suggestions for improvements, please feel free to contribute or report them on the __GitHub repository__. We welcome any feedback to enhance the script further.
