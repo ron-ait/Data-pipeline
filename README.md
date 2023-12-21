@@ -25,8 +25,9 @@ In this project, you will execute an End-To-End Data Pipeline on Real-Time Order
 
 
 
-## Kafka Architeture
-![image](https://github.com/ron-ait/Data-pipeline/assets/100356208/4561d8d7-6c4c-4a15-8b57-c8216963376c)
+## Kafka Architecture
+
+![Kafka-Architectureedit](https://github.com/ron-ait/Data-pipeline/assets/100356208/4b5498a0-f520-4c56-9031-0e7065ebe25f)
 
 __Kafka__ is a distributed streaming platform that can handle real-time data feeds. It was initially developed by LinkedIn and later open-sourced by Apache Software Foundation. Kafka achieves its high-throughput and fault-tolerance by distributing the load over multiple servers.
 
